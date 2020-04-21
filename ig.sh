@@ -18,11 +18,11 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-cowsay -f eyes "Termux.id" | lolcat
-figlet -f slant "Termux.id" | lolcat
+cowsay -f eyes "A-M-NeGaTiVe" | lolcat
+figlet -f slant "A-M-NeGaTiVe" | lolcat
 echo "  <=====================[]====================>" | lolcat
-echo "  <=====[       Tools By AyipBontos       ]=====>" | lolcat
-echo "  <=====[  Concact Me : +6282278198738  ]=====>" | lolcat
+echo "  <=====[       A-M-NeGaTiVe       ]=====>" | lolcat
+echo "  <=====[  Concact Me : +989142160313  ]=====>" | lolcat
 echo "  <=====================[]====================>" | lolcat
 
 sleep 1
